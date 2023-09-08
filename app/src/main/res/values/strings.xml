@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fishing</string>
+
+    <string name="equipment">Equipment</string>
+    <string name="diary">Diary</string>
+    <string name="date">Date :</string>
+    <string name="weight_length">Weight / Length :</string>
+
+</resources>
